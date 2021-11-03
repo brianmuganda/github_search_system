@@ -1,0 +1,44 @@
+#user-details {
+    width: 80%;
+  }
+
+  h2{
+   
+    margin-top: 20px;
+    padding: 5px;
+    width:500px;
+    margin-left:30%;
+
+  }
+
+  
+  #profile {
+    
+    margin-top: 20px;
+    position: relative;
+    left: 5%;
+    width: 900px;
+    justify-content: space-around;
+  }
+  #profile button {
+    height: 50px; 
+  }
+  #profile img {
+    height: 250px;
+   
+  }
+  
+  
+  .btn-container {
+    padding-bottom: 0;
+    display: flex;
+    align-items: right;
+  }
+
+  
+  img {
+    max-width: 18rem;
+    height: 15rem;
+    object-fit: cover;
+    border-radius: 50%;
+  }
