@@ -1,0 +1,20 @@
+<nav>
+    <div class="logo">
+        <h1><i class="fab fa-github" style="color:white"></i>&nbsp;<span class="span1">Git</span><span class="span2">Map</span> </h1>
+        
+    </div>
+    <a routerLink="/my-home" >Home</a>
+    <ul class="nav-links">
+       
+        
+
+        <form class="form-inline my-2 my-lg-0" #userForm="ngForm">
+            <input class="form-control mr-sm-2" type="search" placeholder="input Github username" aria-label="Search"
+                        name="username"
+                        [(ngModel)]="username">
+            <button class="btn btn-outline-light my-2 my-sm-0" type="submit" (click)="userProfile()" routerLink="/name-result" routerLinkActive="activeRoute">Find</button>
+          </form>&nbsp;&nbsp;&nbsp;
+        
+
+    </ul>
+</nav>
