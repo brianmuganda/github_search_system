@@ -1,6 +1,6 @@
 # GitHub-Search
 
-An application where users can search for GitHub accounts using their name , 10/31/2021.
+An application where users can search for GitHub profiles using their name , 10/31/2021.
 By Brian Muganda
 
 ## Description
@@ -19,7 +19,7 @@ To make advancements/modifications, follow these steps:
 
 ## Technologies used 
 
-This project was generated with Angular CLI version 12.2.9 The technologies used are HTML, CSS, Typescript and Bootstrap.
+This project was generated with Angular CLI version 12.2.9 The technologies used are Javascript, HTML, CSS, Typescript and Bootstrap.
 
 ## Support and Contact details
 
