@@ -1,4 +1,4 @@
-# GitHub-Search
+# GitHub_Search_system
 
 An application where users can search for GitHub profiles using their name , 10/31/2021.
 By Brian Muganda
